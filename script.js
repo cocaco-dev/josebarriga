@@ -71,7 +71,7 @@ const translations = {
     'projects.h2': 'Microservices architecture on Docker + Kubernetes',
     'projects.h3': 'GraphQL APIs, CI/CD pipelines, automated deployments',
     'projects.h4': 'Next.js frontend with Stripe payment integration',
-    'projects.visit': 'Visit AWTU.io',
+    'projects.visit': 'Visit awtu.io',
 
     // Education
     'education.title': 'Education',
@@ -155,7 +155,7 @@ const translations = {
     'projects.h2': 'Arquitectura de microservicios en Docker + Kubernetes',
     'projects.h3': 'APIs GraphQL, pipelines CI/CD, despliegues automatizados',
     'projects.h4': 'Frontend Next.js con integración de pagos Stripe',
-    'projects.visit': 'Visitar AWTU.io',
+    'projects.visit': 'Visitar awtu.io',
 
     // Education
     'education.title': 'Educación',
